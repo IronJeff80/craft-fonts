@@ -1,6 +1,8 @@
 craft-fonts
 ===========
 
+<a href="https://sonarcloud.io/project/overview?id=storytold_craft-fonts"><img alt="Scanned by SonarCloud" src="https://img.shields.io/badge/Scanned_by-SonarCloud-4b9fd5?style=flat-square&logo=sonarqubecloud&logoColor=white"></a>
+
 Reusable fonts for the Crafting Apps.
 
 This library is meant to have the following:
